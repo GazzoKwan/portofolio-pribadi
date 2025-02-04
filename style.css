@@ -1,0 +1,21 @@
+.jumbotron{
+    padding: 2rem 1rem;
+}
+
+body {
+    background-image: linear-gradient(to bottom, #ffffff, #b9d3fc);
+    min-height: 2000px; /* Pastikan latar belakang mencakup seluruh tinggi halaman */
+  }
+
+  /* sertif */
+  #sertif {
+    margin-top: -170px;
+    padding: 270px;
+    padding-bottom: 80px;
+  }
+
+  #sertif img{
+    width: 100%;
+    padding: 10px;
+  }
+  /* end sertif */
